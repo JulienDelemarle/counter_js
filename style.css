@@ -1,0 +1,24 @@
+body{
+    margin: 100px auto;
+}    
+
+.container{
+    margin: 0 auto;
+    border: solid 3px rgb(29, 22, 22);
+    border-radius: 10px;
+    max-width: 600px;
+    height: 400px;
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background: rgb(55, 165, 141);
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
